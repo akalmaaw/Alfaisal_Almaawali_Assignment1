@@ -1,0 +1,51 @@
+body {background-color:#DAF7A6;}
+
+
+ h1{ font-size:80px;}
+ h2{ font-size:55px;}
+ h3{font-size: 30px;color: black;}
+ p{ font-size:55px; color:#B25711;}
+ p2{ font-size:30px; color:#B25711;}
+ p3{ font-size:30px; color:#B25711;}
+
+.box{    
+   background-color: #EF6A03;
+   width: 810px;
+   padding: 30px;
+   position: relative;
+}
+.meme_top{
+  position: center;
+  padding: 8px;
+  top: 80px;    
+  font-size: 40px;
+  color:white;
+  font-family: Impact;
+  text-shadow: 2px 2px #000000;
+}
+.meme_bottom{
+  position: top;
+  bottom: 50px;
+  text-align: center;
+  font-size: 35px;
+  color:white;
+  font-family: Impact;
+  text-shadow: 2px 2px #000000;
+}
+
+.box1{    
+   background-color:#B25711;
+   width: 795px;
+   padding: 20px;
+   position: relative;
+}
+a{color:#5D3AB8;}
+
+a:hover{color:#B89F3A;}
+
+
+
+
+  
+
+
